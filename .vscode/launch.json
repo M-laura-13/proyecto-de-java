@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Ej1IfElse",
+            "request": "launch",
+            "mainClass": "Ej1IfElse",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Ej2For",
+            "request": "launch",
+            "mainClass": "Ej2For",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Ej3Switch",
+            "request": "launch",
+            "mainClass": "Ej3Switch",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Ej4While",
+            "request": "launch",
+            "mainClass": "Ej4While",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "EntradaScanner",
+            "request": "launch",
+            "mainClass": "EntradaScanner",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "booleanos",
+            "request": "launch",
+            "mainClass": "booleanos",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "comparacion",
+            "request": "launch",
+            "mainClass": "comparacion",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "ejerciciologicos",
+            "request": "launch",
+            "mainClass": "ejerciciologicos",
+            "projectName": "proyecto-de-java_92812c19"
+        }
+    ]
+}
