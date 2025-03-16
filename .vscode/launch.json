@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Quiz2",
+            "request": "launch",
+            "mainClass": "Quiz2",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
