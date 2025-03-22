@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "OrdenAlfabeticoNombres",
+            "request": "launch",
+            "mainClass": "OrdenAlfabeticoNombres",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Tabla5",
+            "request": "launch",
+            "mainClass": "Tabla5",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "MostrarNumeros",
+            "request": "launch",
+            "mainClass": "MostrarNumeros",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "SueldosEmpleados",
+            "request": "launch",
+            "mainClass": "SueldosEmpleados",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Notas",
+            "request": "launch",
+            "mainClass": "Notas",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "SueldoAños",
+            "request": "launch",
+            "mainClass": "SueldoAños",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "PromedioEstudiante",
+            "request": "launch",
+            "mainClass": "PromedioEstudiante",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "TestCapacitacion",
+            "request": "launch",
+            "mainClass": "TestCapacitacion",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "NumeroMayor",
+            "request": "launch",
+            "mainClass": "NumeroMayor",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "CalculoNumerico",
+            "request": "launch",
+            "mainClass": "CalculoNumerico",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Ej5TablaM",
+            "request": "launch",
+            "mainClass": "Ej5TablaM",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
             "name": "Quiz2",
             "request": "launch",
             "mainClass": "Quiz2",
