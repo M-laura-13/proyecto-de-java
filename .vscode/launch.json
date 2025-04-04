@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumaMatriz",
+            "request": "launch",
+            "mainClass": "Matrices.SumaMatriz",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "JaggetArrays",
+            "request": "launch",
+            "mainClass": "Matrices.JaggetArrays",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Tablero",
+            "request": "launch",
+            "mainClass": "Matrices.Tablero",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Recorrer",
+            "request": "launch",
+            "mainClass": "Matrices.Recorrer",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "Matrices.Matriz",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "PromedioArrays",
+            "request": "launch",
+            "mainClass": "PromedioArrays",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "BucleFor",
+            "request": "launch",
+            "mainClass": "BucleFor",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
             "name": "DoWhile",
             "request": "launch",
             "mainClass": "DoWhile",
