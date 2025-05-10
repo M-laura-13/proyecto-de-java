@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjercicioUno",
+            "request": "launch",
+            "mainClass": "EstructurasRepetitivas.EjercicioUno",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioUno",
+            "request": "launch",
+            "mainClass": "EjercicioUno",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
             "name": "SumaMatriz",
             "request": "launch",
             "mainClass": "Matrices.SumaMatriz",
