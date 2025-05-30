@@ -6,6 +6,258 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatrizMarco",
+            "request": "launch",
+            "mainClass": "MatrizMarco",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "VectorInverso",
+            "request": "launch",
+            "mainClass": "VectorInverso",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "VectorNumeros",
+            "request": "launch",
+            "mainClass": "VectorNumeros",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "CadenaInmutable",
+            "request": "launch",
+            "mainClass": "CadenaInmutable",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Matriz5x5",
+            "request": "launch",
+            "mainClass": "Matriz5x5",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "IntercambioValores",
+            "request": "launch",
+            "mainClass": "IntercambioValores",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "ModificarObjeto",
+            "request": "launch",
+            "mainClass": "ModificarObjeto",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "ListaMatriz",
+            "request": "launch",
+            "mainClass": "ListaMatriz",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso8Array",
+            "request": "launch",
+            "mainClass": "Uso8Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso7Array",
+            "request": "launch",
+            "mainClass": "Uso7Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso6Array",
+            "request": "launch",
+            "mainClass": "Uso6Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso5Array",
+            "request": "launch",
+            "mainClass": "Uso5Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso4Array",
+            "request": "launch",
+            "mainClass": "Uso4Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso3Array",
+            "request": "launch",
+            "mainClass": "Uso3Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso2Array",
+            "request": "launch",
+            "mainClass": "Uso2Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Uso1Array",
+            "request": "launch",
+            "mainClass": "Uso1Array",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "SimulacionBatallaPokemon",
+            "request": "launch",
+            "mainClass": "SimulacionBatallaPokemon",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "PracticaArray",
+            "request": "launch",
+            "mainClass": "PracticaArray",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "RecorrerForEach",
+            "request": "launch",
+            "mainClass": "RecorrerForEach",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "RecorrerArray",
+            "request": "launch",
+            "mainClass": "RecorrerArray",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "EjemploArray",
+            "request": "launch",
+            "mainClass": "EjemploArray",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "PosicionArray",
+            "request": "launch",
+            "mainClass": "PosicionArray",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "ArrayFijo",
+            "request": "launch",
+            "mainClass": "ArrayFijo",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "AcumulaCalificaciones",
+            "request": "launch",
+            "mainClass": "AcumulaCalificaciones",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "CuentaAcumula",
+            "request": "launch",
+            "mainClass": "CuentaAcumula",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "AcumuladorArray",
+            "request": "launch",
+            "mainClass": "AcumuladorArray",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Acumulador",
+            "request": "launch",
+            "mainClass": "Acumulador",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Contador2",
+            "request": "launch",
+            "mainClass": "Contador2",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Continue2",
+            "request": "launch",
+            "mainClass": "Continue2",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Break2",
+            "request": "launch",
+            "mainClass": "Break2",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Continu",
+            "request": "launch",
+            "mainClass": "Continu",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "restaurante",
+            "request": "launch",
+            "mainClass": "restaurante",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "ciclos",
+            "request": "launch",
+            "mainClass": "ciclos",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
+            "name": "foreach",
+            "request": "launch",
+            "mainClass": "foreach",
+            "projectName": "proyecto-de-java_92812c19"
+        },
+        {
+            "type": "java",
             "name": "EjercicioUno",
             "request": "launch",
             "mainClass": "EstructurasRepetitivas.EjercicioUno",
